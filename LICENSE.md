@@ -1,4 +1,4 @@
-# 
+# Enhance Atom for PC | Atom for Windows with professional Atom for PC | Atom for Windows Workflow | linting + Git-integration, the #1 workflow. Includes linting and Git-integration
 
 
 
